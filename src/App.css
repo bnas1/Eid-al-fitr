@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Spirax&display=swap");
+#root {
+  background-image: url(./assets/bg.jpg);
+  background-position: inherit;
+}
+
+.footer {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.eid {
+  font-family: "Spirax", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
