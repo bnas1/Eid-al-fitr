@@ -6,11 +6,11 @@ const Footer = () => {
   return (
     <div className="flex justify-around container mx-auto glass-effect bg-green-950 opacity-75 p-4 rounded-lg relative ">
       <div className=" left ">
-        <p className="text-5xl text-white pt-20 flex items-center font-semibold ">
+        <p className="text-5xl text-white pt-20 flex font-semibold ">
           Continue the purity <br /> after the fasting ends.
         </p>
       </div>
-      <div className="flex flex-col items-center	 ">
+      <div className="flex flex-col items-center">
         <img src={img1} style={{ height: "150px", width: "150px" }} alt="" />
         <p className="text-white font-semibold">
           Quran was revealed to Prophet Mohammad
